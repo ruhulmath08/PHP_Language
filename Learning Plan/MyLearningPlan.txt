@@ -7,11 +7,15 @@
 	a) PHP Fundamentals Tutorial (ROW PHP)
 	b) Bangla Object Oriented PHP
 	c) Bangla MySQL Database Tutorials
-	d) PHP OOP Login-Register System (Bangla)
-	e) Develop Dynamic Blog With PHP OOP
+	d) PHP OOP and MySQLi CRUD Bangla Tutorial
+	e) PHP OOP Login-Register System (Bangla)
+	f) Develop Dynamic Blog With PHP OOP
 
 3. PHP framework for rest API
 	a) Slime Framework
 
 4. Spring Framework
+
+5. Develop my own website
+	a) Live Website Design Tutorials
 
