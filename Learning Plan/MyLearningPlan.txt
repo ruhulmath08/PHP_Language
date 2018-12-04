@@ -1,0 +1,17 @@
+1. Android Application Development(RC APP)
+	a) Complete Application for live
+	b) Firebase for database
+	c) Material design
+
+2. PHP Language (http://www.trainingwithliveproject.com)
+	a) PHP Fundamentals Tutorial (ROW PHP)
+	b) Bangla Object Oriented PHP
+	c) Bangla MySQL Database Tutorials
+	d) PHP OOP Login-Register System (Bangla)
+	e) Develop Dynamic Blog With PHP OOP
+
+3. PHP framework for rest API
+	a) Slime Framework
+
+4. Spring Framework
+
